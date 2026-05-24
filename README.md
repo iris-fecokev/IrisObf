@@ -7,7 +7,7 @@
 
 ## 🖼️ Обзор
 <p align="center">
-  <img src="images/scheme.png" width="80%">
+  <img src="image.png" width="80%">
 </p>
 
 ## ✨ Особенности
