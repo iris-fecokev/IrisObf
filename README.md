@@ -18,6 +18,7 @@
 * Fast and efficient obfuscation of Python scripts.
 * Protection against direct reading and copying of source code.
 * Ease of use: one command and your code is obfuscated.
+* Absolute stability.
 
 ## Quick start
 
