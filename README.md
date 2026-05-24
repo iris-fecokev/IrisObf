@@ -1,24 +1,29 @@
 # IrisObf
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+![Is Has Deobfuscator?](https://img.shields.io/badge/Is%20Has%20Deobfuscator%3F-NO-red)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> Легковесный Python-обфускатор для защиты вашего кода.
+> Lightweight Python obfuscator to protect your code.
 
-## 🖼️ Обзор
-<p align="center">
-  <img src="image.png" width="80%">
+## Review
+<p align="left">
+  <img src="image.png" width="30%">
 </p>
 
-## ✨ Особенности
+## Peculiarities
 
-*   🚀 Быстрое и эффективное запутывание Python-скриптов.
-*   🛡️ Защита от прямого чтения и копирования исходного кода.
-*   💡 Простота использования: одна команда — и ваш код обфусцирован.
+* Fast and efficient obfuscation of Python scripts.
+* Protection against direct reading and copying of source code.
+* Ease of use: one command and your code is obfuscated.
 
-## 🚀 Быстрый старт
+## Quick start
 
-1.  Клонируйте репозиторий:
+1. Clone the repository:
     ```bash
     git clone https://github.com/iris-fecokev/IrisObf.git
-    cd IrisObf
+    cd IrisObf```
+2. Launch IrisObf:
+    ```bash
+    python IrisObf.py```
+3. And obfuscate your file!
