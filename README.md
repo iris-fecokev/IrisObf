@@ -6,7 +6,7 @@
 ![Version](https://img.shields.io/badge/Version-alpha-yellow)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> Lightweight Python obfuscator to protect your code.
+> A lightweight yet sophisticated Python obfuscator to secure your code.
 
 ## Review
 <p align="left">
@@ -15,10 +15,17 @@
 
 ## Peculiarities
 
-* Fast and efficient obfuscation of Python scripts.
+* Fast and efficient Python script obfuscation.
+
 * Protection against direct reading and copying of source code.
+
 * Ease of use: one command and your code is obfuscated.
-* Absolute stability.
+
+* The obfuscator is completely stable.
+
+* Does not rely on a specific Python version.
+
+* Supports Mac, Windows, and Termux.
 
 ## Quick start
 
